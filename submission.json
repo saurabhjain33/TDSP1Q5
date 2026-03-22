@@ -1,0 +1,7 @@
+{
+  "prompt": "[An abstract top-down view of a bottling conveyor belt. 67% of the bottles are perfect and glowing; the remaining 33% are crushed and turning into dark sand. The sand is shaped like human handprints. Minimalist composition, industrial color palette of steel blue and safety orange. High emotional impact, professional magazine cover style.]",
+  "model": "[e.g., Midjourney v6.1]",
+  "dataset_name": "Manufacturing Downtime (Maven Analytics)",
+  "dataset_url": "https://mavenanalytics.io/data-playground/manufacturing-downtime",
+  "insight": "The production line operates at only 67% efficiency, with 50% of downtime driven by avoidable human-related errors like machine adjustments."
+}
